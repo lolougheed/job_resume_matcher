@@ -1,0 +1,32 @@
+Remote
+Upwork ($UPWK) is the world’s largest work marketplace, connecting businesses with highly skilled professionals worldwide. From entrepreneurs to Fortune 100 enterprises, companies trust Upwork’s platform to access expert talent, leverage AI-powered work solutions, and drive meaningful business outcomes.
+
+Upwork’s AI-powered platform has facilitated over $20 billion in economic opportunity for professionals worldwide. With professionals spanning 10,000+ skills, including AI and machine learning, software development, sales and marketing, customer support, finance and accounting, and more, Upwork empowers businesses of all sizes to scale, innovate, and build agile teams.
+
+Join us in revolutionizing data infrastructure and product strategy at Upwork and significantly impacting our platform and users. As the Senior Director of Technical Product Management (Data Platform), you’ll set the strategic vision and lead execution for Upwork’s open data ecosystem. You’ll drive critical infrastructure investments that empower hundreds of internal data consumers and fuel AI/ML innovation across the company. In this highly visible and cross-functional role, you’ll collaborate with engineering, analytics, and data science leaders to build scalable, trustworthy systems that enable experimentation, decision-making, and business growth.
+
+Responsibilities
+Define and drive the strategic vision for Upwork’s internal data platform, aligning with company-wide priorities and influencing executive stakeholders.
+
+Lead, mentor, and scale a high-performing team of product managers, setting direction across data infrastructure, governance, and internal tooling.
+
+Partner with engineering, analytics, and AI/ML leaders to deliver reliable, secure, and scalable data systems — including event streaming, data lake architecture, and observability tools.
+
+Champion a customer-first culture within the data platform team, surfacing and solving challenges that impact data reliability and access across business functions.
+
+Establish and track clear product goals and outcomes, aligning product investments with organizational impact and long-term scalability.
+
+Drive innovation and continuous improvement by fostering a culture of experimentation, psychological safety, and bold, future-focused thinking.
+
+Communicate vision and progress with clarity, influencing cross-functional stakeholders and enabling efficient, async collaboration at scale.
+
+What it takes to catch our eye
+10+ years in product management with 4+ years leading technical product teams, ideally in data platform or infrastructure roles.
+
+Deep understanding of modern data technologies, including data lakes, batch/real-time pipelines, event streaming, and observability tooling.
+
+Proven track record of building and scaling internal platforms that serve cross-functional teams and drive measurable business impact.
+
+Experience partnering with AI/ML and data science teams to support experimentation, model development, and data reliability.
+
+A strategic, outcome-oriented mindset with strong leadership, communication, and stakeholder alignment skills.

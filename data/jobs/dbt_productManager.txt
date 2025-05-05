@@ -1,0 +1,24 @@
+
+What You’ll Do
+
+Define & Execute Vision: Craft a long-term vision and roadmap for the Semantic Layer that aligns with overall business goals and addresses current product gaps.
+Cross-functional leadership: Collaborate with engineering, design, and GTM teams to drive product development from ideation to launch.
+Market & User Research: Conduct comprehensive market analysis and gather developer and customer feedback to ensure our product meets real-world needs.
+Lifecycle Ownership: Manage the complete product lifecycle—from research and ideation to design, development, and go-to-market strategies—focusing on features like MetricFlow enhancements and caching solutions.
+Community Engagement: Build tight feedback loops with the developer community to continuously iterate on product features and maintain strong customer relationships.
+Strategic Alignment: Work with cross-domain teams to align the Semantic Layer’s evolution with broader commercial and engineering strategies.
+
+You Are a Good Fit If You Have:
+
+7+ years of product management experience, preferably in data analytics or data engineering products.
+Proven experience in owning end-to-end product development and driving cross-functional collaboration in a fast-paced environment.
+A strategic mindset with the ability to translate market insights and customer feedback into actionable product plans.
+
+You’ll Have an Edge If You Have:
+
+A deep understanding of the analytics development lifecycle and familiarity with semantic layers, data transformation, or similar concepts.
+Prior experience with dbt, MetricFlow, or related analytics engineering tools.
+Knowledge of modern data warehouses (Snowflake, BigQuery, Redshift, etc.) and API integrations.
+Experience working in fully remote or distributed teams.
+A track record of turning complex, technical features into accessible, customer-centric solutions.
+Experience building AI-augmented analytics products

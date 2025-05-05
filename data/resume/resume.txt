@@ -1,0 +1,52 @@
+ Logan Lougheed 
+ Engineering Manager | Data Platform Architect | Cloud Infrastructure Lead 
+ (480)707-2208 
+ Logan.Lougheed@gmail.com | San Diego, CA 
+ Professional Summary:  _______________________________________________________ 
+ Engineering Manager with 10+ years of experience leading cloud-native data platform development, data mesh 
+ architecture, and infrastructure automation across AWS, Azure, OCI, and GCP. Proven track record delivering 
+ scalable solutions using Databricks, Snowflake, and Spark. Skilled in building and mentoring high-performing 
+ engineering teams to enable AI/ML integration and cross-functional data strategy. 
+ Professional Experience 
+ 01.2024 - Present 
+ E3R, inc. 
+ Senior Data & Platform Architect 
+ -  Led end-to-end development of cloud-native data platform using Databricks, Snowflake, Spark, Python, 
+ SQL, and VBA. 
+ -  Designed multi-region, scalable infrastructure enabling experimentation and analytics for 25+ 
+ interconnected databases. 
+ -  Delivered data mesh architecture aligned with enterprise governance and team collaboration. 
+ -  Directed cross-functional team (engineers, data scientists), setting technical direction and delivering 
+ secure, reliable data systems. 
+ -  Drove stakeholder alignment and delivered technical documentation, platform roadmaps, and success 
+ metrics. 
+ 06.2019 - 01.2024 
+ Deloitte Consulting 
+ Senior Data Engineer / Engineering Manager 
+ -  Designed ingestion pipelines for 30B+ records/month across 800+ cloud servers using Kubernetes, ELK, 
+ SQL, Bash. 
+ -  Built observability systems with ELK, Prometheus, and ML-driven anomaly detection, reducing downtime 
+ by 70%. 
+ -  Architected secure, scalable tooling across AWS and OCI, ensuring compliance with DoD standards. 
+ -  Led an 8-member team delivering a full-stack cloud platform with GCP, Tableau, Node.js, and MSSQL. 
+ -  Contributed to data infrastructure strategy for multimillion-dollar contracts, working directly with 
+ executive clients. 
+ 06.2014 - 06.2019 
+ Nordstrom 
+ Inventory Control Manager 
+ -  Built ML-based inventory forecasting tools using Python, VBA, and Excel, reducing shrinkage by $300K 
+ annually. 
+ -  Managed 100+ staff across logistics, fulfillment, and warehouse teams with data-backed operational 
+ improvements. 
+ -  Rolled out regional analytics strategies and training across 13 locations, improving accuracy and fulfillment 
+ speed. 
+ Education / Certifications 
+ B.S., Business Data Analytics  — Arizona State University 
+ Elastic Certified Professional | Security+ | AWS Cloud Practitioner | Azure Fundamentals | OCI 
+ Foundations | TS/SCI Clearance 
+ Skills  ________________________________________________________ 
+ -  Cloud:  AWS, Azure, GCP, OCI 
+ -  Tools:  Databricks, Snowflake, Kafka, Spark, ELK, Tableau, Prometheus, Kubernetes, Docker 
+ -  Languages:  Python, SQL, Bash, VBA 
+ -  Practices:  Data Mesh, Infrastructure-as-Code (IaC), CI/CD, DevOps, MLOps, Agile/Scrum 
+ -  Leadership:  Engineering Management, Stakeholder Alignment, Team Mentorship, Delivery Management 

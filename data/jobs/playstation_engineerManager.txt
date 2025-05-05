@@ -1,0 +1,46 @@
+Why PlayStation?
+
+PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.
+
+We are looking for an experienced Engineering Manager to lead our foundational data platforms — Data Ocean (our next-gen Data Lakehouse) and Databricks platform. These platforms are used by a wide range of personas across Playstation — including data engineers, analysts, machine learning engineers, data scientists, and product teams — and are critical to enabling data-driven decision-making, AI/ML, and scalable insights across the PlayStation ecosystem.
+
+In this role, you will lead a talented engineering team focused on building secure, performant, and scalable next gen platforms. You’ll partner closely with platform product managers, Data Engineering, architecture, governance, and business teams to ensure the platform evolves to meet PlayStation’s growing data needs.
+
+
+ What You Will Do:
+
+Lead Platform Development – Own the end-to-end engineering Data platform, ensuring platform reliability, scalability, and extensibility. 
+
+Set Technical Direction – Define architectural strategies aligned with PlayStation’s long-term data vision. 
+
+Manage and Grow a High-Performing Team – Foster an engineering culture centered around quality, innovation, and ownership. 
+
+Support Broad Use Cases – Enable data access and scalability for a range of use cases across analytics, machine learning, and operational workloads. 
+
+Promote Engineering Best Practices – Champion platform engineering, infrastructure automation, observability, and security. 
+
+Collaborate Across Teams – Partner with stakeholders across product, analytics, governance, and business functions to deliver cohesive solutions.
+ 
+
+What We're Looking For:
+5+ years of experience in data platform or data engineering, with a strong focus on scalable, cloud-native infrastructure.
+
+3+ years in an engineering leadership role, driving execution and team development.
+
+Experience with cloud platforms (preferably AWS,GCP) and services such as S3, Lambda, Glue catalog, Athena, and related infrastructure for data processing and orchestration. 
+
+Exposure to real-time streaming technologies such as Apache Kafka or Amazon Kinesis, alongside batch processing systems is good to have. 
+
+Hands-on experience with Databricks and modern data processing frameworks like Apache Spark. 
+
+Exposure to data warehouse platforms such as Snowflake, Redshift, or BigQuery. 
+
+Strong understanding of emerging data interoperability standards, including table formats like Apache Iceberg and Delta.
+
+Proven ability to lead technical teams, set architectural direction, and align execution with business goals. 
+
+Effective communicator capable of influencing across technical and non-technical audiences.

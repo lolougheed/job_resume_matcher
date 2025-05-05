@@ -1,0 +1,33 @@
+ _______________________________________________________ 
+ Strategic and hands-on engineering leader with 10+ years of experience building scalable data 
+ platforms, mentoring technical teams, and driving analytics initiatives aligned with company 
+ vision and product roadmaps. Experienced in developing secure, cloud-native infrastructure, 
+ optimizing ELT/ETL pipelines, and enabling BI/AI capabilities that empower insight-driven 
+ product and business decisions. 
+ Professional Experience 
+ 01.2024 - Present 
+ E3R, inc. 
+ Senior Data Scientist / Manager 
+ -  Led architecture and delivery of a data platform utilizing Python, Databricks, VBA, and 
+ SQL, powering analytics and experimentation across multiple domains. 
+ -  Developed scalable ELT pipelines and reusable code modules (1000+ LOC), enhancing 
+ agility and reducing technical debt. 
+ -  Established schema design and data modeling standards with scalability and 
+ governance at the forefront. 
+ -  Mentored and guided engineers; fostering cross-team collaboration between data 
+ scientists, engineers, and business stakeholders. 
+ -  Supported proposal and strategic contract work by articulating the value of integrated 
+ analytics and infrastructure 
+ 06.2019 - 01.2024 
+ Deloitte Consulting 
+ Senior Data Engineer / Engineering Manager 
+ -  Designed and led ingestion of 30B+ records per month using ELK, JSON, SQL, 
+ Kubernetes, and Bash. 
+ -  Built and maintained monitoring systems using ELK Stack and Prometheus, improving 
+ reliability and enabling anomaly detection. 
+ -  Spearheaded Kubernetes observability tooling and cross-cloud experimentation 
+ workflows. 
+ -  Managed full-stack delivery of a GCP-based web application with embedded analytics; 
+ led an 8-person team. 
+ -  Delivered presentations, technical documentation, and stakeholder training across 
+ multiple projects. 
